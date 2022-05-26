@@ -3,9 +3,10 @@
  Flutter awesome drawer bar.
 
 ## Getting Started
--my mail: davimiguel1100@gmail.com
-
-A few resources to get you started if this is your first Flutter project:
+Contact me for any issues or to work together
+👉 My mail📩: davimiguel1100@gmail.com
+👉 My whatsapp🤳: wa.me/22961051869
+ 
 
 
 
